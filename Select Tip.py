@@ -9,4 +9,4 @@ if service == 3:
     total = float(bill) * 1.20
 if service == 4:
     total = float(bill) * 1.25 
-print(f"your bill+tip depending on how you rated your service is{total}")
+print(f"your bill+tip depending on how you rated your service is {total} dollars")
